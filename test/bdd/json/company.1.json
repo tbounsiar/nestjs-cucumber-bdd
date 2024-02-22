@@ -1,0 +1,15 @@
+{
+  "content": {
+    "id": 1,
+    "name": "Alpha Inc.",
+    "email": "info@alpha.com",
+    "address": {
+      "streetNumber": 123,
+      "streetName": "Main Street",
+      "suburb": "Downtown",
+      "postCode": "12345",
+      "city": "Metropolis",
+      "state": "Metropolis State"
+    }
+  }
+}

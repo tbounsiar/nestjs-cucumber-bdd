@@ -1,0 +1,39 @@
+{
+  "content": [
+    {
+      "id": 1,
+      "name": "Alpha Inc.",
+      "email": "info@alpha.com"
+    },
+    {
+      "id": 2,
+      "name": "Meta Technologies",
+      "email": "contact@meta.tech"
+    },
+    {
+      "id": 3,
+      "name": "Amazon Corporation",
+      "email": "support@amazoncorp.com"
+    },
+    {
+      "id": 4,
+      "name": "Apple Enterprises",
+      "email": "hello@appleinc.com"
+    },
+    {
+      "id": 5,
+      "name": "Microsoft Corporation",
+      "email": "info@microsoftcorp.com"
+    },
+    {
+      "id": 6,
+      "name": "Uber Technologies",
+      "email": "info@uberinc.com"
+    },
+    {
+      "id": 7,
+      "name": "Netflix Entertainment",
+      "email": "contact@netflixent.com"
+    }
+  ]
+}
